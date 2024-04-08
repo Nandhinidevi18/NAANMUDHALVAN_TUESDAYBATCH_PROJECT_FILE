@@ -1,2 +1,26 @@
-# NAANMUDHALVAN_TUESDAYBATCH_PROJECT_FILE
-my project
+# NANMUDHALVAN_TUESDAYBATCH_PROJECT_FILES
+
+PROJECT CREATED BY :NANDHINI DEVI V 
+
+
+
+LOGIN DETAILS:
+
+
+UNAME:nandhini
+
+
+Password:vijayakumar
+
+
+
+
+#Project Running steps:
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+python manage.py createsuperuser
+
+python manage.py runserver
